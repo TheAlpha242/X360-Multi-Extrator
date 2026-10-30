@@ -1,0 +1,29 @@
+# Ambiente Virtual
+venv/
+env/
+ENV/
+
+# Python Cache e Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# Compilação e Builds
+build/
+dist/
+*.exe
+
+# Arquivos temporários e rascunhos de testes
+guiesboço.py
+teste_idioma.py
+*.tmp
+*.log
+
+# Arquivo de configuração local de usuário
+config.json
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
